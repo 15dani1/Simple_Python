@@ -1,6 +1,6 @@
 # Python_Course
  
-## Lecture 1 : Introduction, Variables, and Print
+### Lecture 1 : Introduction, Variables, and Print
  
 Additional Topics coming soon!
 

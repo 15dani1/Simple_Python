@@ -81,5 +81,10 @@
 - Content Review
 - Next Steps
 
+I would like to acknowledge the following sources as I have been inspired by some of these awesome works:
+  - https://docs.python.org/3/tutorial/
+  - https://automatetheboringstuff.com/
+  - https://www.programiz.com/python-programming/examples
+  
+Special Thanks to the Malayalee Association of Central Florida for giving me the opportunity to teach my course to all these fabulous kids! I hope they grow up to be inspirational Computer Scientists/Engineers one day :)
 
-I would like to acknowledge https://github.com/zhiyzuo/python-tutorial as I have been inspired by some of the resources provided by this open source project.

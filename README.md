@@ -1,4 +1,4 @@
-# Python_Course
+# Simple Python
  
 ### Lecture 1 : Introduction, Variables, and Print
  

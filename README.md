@@ -26,7 +26,7 @@ Google Colab Link - https://colab.research.google.com/drive/1Eqvd7RDs81rpFadML-3
 
 Practice Problems - https://colab.research.google.com/drive/1RlMF5WD6YvUf7sbGs0XkpYyWvOLyT30b?usp=sharing
 
-Video Link - https://youtu.be/69ttucfPFGc
+Video Link - https://youtu.be/ZJhPGwl1B_4
 
 ### Lecture 2 - Naming Convention, Strings, and Booleans
 

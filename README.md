@@ -96,7 +96,7 @@ Google Colab Link - https://colab.research.google.com/drive/1jfiasGWmPZ69G6APqgn
 
 Practice Problems - https://colab.research.google.com/drive/1fbE_v3kYROSSHDjPQEzmtSp263SRDNiI?usp=sharing
 
-Video Link - https://youtu.be/04OHBF2fEKk
+Video Link - https://youtu.be/NPxBzfb7PzU
 
 ### Lecture 7 - Dictionary, Input Handling, Scopes
 
